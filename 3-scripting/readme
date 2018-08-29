@@ -1,0 +1,4 @@
+1. To execute the program run the following command. By default, it shows the average of 2 runs.
+
+python python netperf-throughput.py  [iteration_num]
+
